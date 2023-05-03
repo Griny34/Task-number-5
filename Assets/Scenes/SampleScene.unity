@@ -576,8 +576,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 101e2da60682757409a97202253dfd1b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _current: 0
-  _target: 1
+  _lowerBound: 0
+  _upBound: 1
   _maxDelta: 0.8
   _alarm: {fileID: 527081506}
 --- !u!1 &945685206
